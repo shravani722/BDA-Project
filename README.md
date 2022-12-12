@@ -1,9 +1,5 @@
 # Big-Data-Analytics-project
 
-A university project created for the lesson ***"Big Data Management Systems"*** with my colleague [Nikos Stamopoulos](https://github.com/nikosstam4).
-
-<p>Running a number of queries on the MovieLens 20M Dataset, using different configurations for Spark (single node, virtual cluster, etc.).</p>
-
 ### Queries:
 1. Find the number of users who watched the movie "Jumanji".
 2. Find the names of the movies that users described as "boring".
